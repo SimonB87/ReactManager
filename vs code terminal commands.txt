@@ -1,0 +1,21 @@
+VS Code terminal:
+
+
+// installl react
+
+npx create-react-app .
+
+
+// install material-ul
+
+npm i material-ui
+
+
+// start loclahost server
+
+npm start
+
+
+// create a build folder to deploy app online
+
+npm run build
